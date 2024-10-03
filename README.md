@@ -1,16 +1,25 @@
 # Bank Marketing Campaign Analysis
 
-### Project Overview:
-A Portuguese bank faced a critical business problem: low conversion rates from its marketing campaigns aimed at promoting term deposits. Despite targeting thousands of customers, only a small percentage subscribed. This project done using **Power BI** analyzes the [Bank marketing campaign dataset](https://www.kaggle.com/datasets/pkdarabi/bank-marketing-dataset).
+### **Project Overview:**
+A Portuguese bank faced a critical business problem: low conversion rates from its marketing campaigns aimed at promoting term deposits. Despite targeting thousands of customers, only a small percentage subscribed. This project done using **Power BI** analyzes the [Bank marketing campaign dataset](https://www.kaggle.com/datasets/pkdarabi/bank-marketing-dataset) obtained from Kaggle.
 The goal was to identify what factors contributed to successful sign-ups and which customer segments were most responsive, allowing the bank to improve the efficiency of future campaigns and increase its overall conversion rate.
 
-### Key Metrics:
+### **Key Metrics:**
 - **Total Customers**: 39,188
 - **Total Positive Responses**: 4,415 (11.27% success rate)
 - **Average Age of Customers**: 40 years
 - **Average Number of Contacts**: 2.57
 
-### Insights:
+### **Tasks completed:**
+Data ingestion, data processing/cleaning, visualizations and dashboarding.
+
+**Power BI file:** [Click here](https://github.com/Tan-Tripathi/Bank_Marketing_Campaign_Analysis-PowerBI-Project/blob/main/Bank%20Marketing%20Campaign%20Analysis.pbix)
+**Final Dashboard:**
+![Bank Marketing Campaign dashboard](https://github.com/user-attachments/assets/20e00907-59a5-46d2-af9b-fcad94332041)
+
+The dashboard provides a clear view of trends across different demographic groups, making the decision-making process data-driven and actionable.
+
+### **Key Insights:**
 
 1. **Job-based Success Rate**:
    - The highest success rate comes from **students** (31.4%) and **retired** individuals (24.7%).
@@ -32,7 +41,7 @@ The goal was to identify what factors contributed to successful sign-ups and whi
 6. **Educational Background**:
    - Interestingly, **illiterate** customers had a **23.5%** success rate, followed by **university degree holders** at 13.7%. This suggests targeting illiterate customers may require specific messaging strategies.
    
-### Recommendations:
+### **Recommendations:**
 - **Focus on Students and Retirees**: Since these groups show higher conversion rates, marketing materials should be more tailored to their specific needs.
   
 - **Timing is Critical**: Concentrate efforts in **May** and **October** when success rates peak.
@@ -47,4 +56,3 @@ By applying these insights, banks can significantly improve campaign outcomes, l
 
 --- 
 
-**Note**: Data preprocessing and visualizations were done using **Power BI** after importing the dataset. The dashboard provides a clear view of trends across different demographic groups, making the decision-making process data-driven and actionable.
