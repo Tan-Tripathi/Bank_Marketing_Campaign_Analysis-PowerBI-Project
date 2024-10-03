@@ -13,9 +13,9 @@ The goal was to identify what factors contributed to successful sign-ups and whi
 ### **Tasks completed:**
 Data ingestion, data processing/cleaning, visualizations and dashboarding.
 
-###**Power BI file:** [Click here](https://github.com/Tan-Tripathi/Bank_Marketing_Campaign_Analysis-PowerBI-Project/blob/main/Bank%20Marketing%20Campaign%20Analysis.pbix)
+### **Power BI file:** [Click here](https://github.com/Tan-Tripathi/Bank_Marketing_Campaign_Analysis-PowerBI-Project/blob/main/Bank%20Marketing%20Campaign%20Analysis.pbix)
 
-###**Final Dashboard:**
+### **Final Dashboard:**
 ![Bank Marketing Campaign dashboard](https://github.com/user-attachments/assets/20e00907-59a5-46d2-af9b-fcad94332041)
 
 The dashboard provides a clear view of trends across different demographic groups, making the decision-making process data-driven and actionable.
